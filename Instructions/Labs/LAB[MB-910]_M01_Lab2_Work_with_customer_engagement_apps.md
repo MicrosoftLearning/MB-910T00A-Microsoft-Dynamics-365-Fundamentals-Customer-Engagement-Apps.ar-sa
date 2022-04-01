@@ -1,56 +1,39 @@
-﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>lab</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>module</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>المعمل 1.2: العمل مع تطبيقات مشاركة العملاء</div></td>
-  <td><div>الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-
-الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing
+---
+lab:
+  title: 'النشاط المعملي 1.2: العمل مع تطبيقات customer engagement'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 4d860bc97fbea8a26911259cb11c1070561efd0c
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908705"
+---
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>الوحدة 1: تعلم أساسيات Dynamics 365 Marketing
 ========================
 
-## معمل التدريب 1.2 العمل مع تطبيقات مشاركة العملاء 
+## <a name="practice-lab-12---work-with-customer-engagement-apps"></a>معمل التدريب 1.2 العمل مع تطبيقات مشاركة العملاء 
 
-## الأهداف
+## <a name="objectives"></a>الأهداف
 
 أثناء هذا التمرين، سترى أنه من السهل جدًا الوصول إلى مختلف تطبيقات Dynamics 365 المتاحة لك مباشرةً من الشاشة الرئيسية. بمجرد فتح التطبيق، يمكنك التبديل بسهولة بين التطبيقات المختلفة على النحو المطلوب. حيث يُعد الوصول إلى الوظائف الأساسية في تطبيقات Dynamics 365 واستخدامها أمرًا ستفعله يوميًا كمستخدم.
 
 
-## إعداد النشاط المعملي
+## <a name="lab-setup"></a>إعداد النشاط المعملي
 
-  - **الوقت المقدر**: 15 دقيقة
+  - **الزمن المقدر**: 15 minutes
 
-## الإرشادات
+## <a name="instructions"></a>الإرشادات
 
 في هذا التمرين، ستصبح على دراية بكيفية الوصول إلى مختلف تطبيقات Dynamics 365 Customer Engagement باستخدام شاشة الصفحة الرئيسية لـ Dynamics 365. 
 
-1.	في متصفح الويب، انتقل إلى https://www.office.com/apps. 
+1.  في مستعرض ويب، انتقل إلى https://www.office.com/apps. 
 
-2.	حدد علامة التبويب تطبيقات الأعمال:  
+2.  حدد علامة التبويب تطبيقات الأعمال:  
 
-3.	في مربع البحث، أدخل النص "Sales hub" وحدد تطبيق Sales Hub لفتحه.  
+3.  في مربع البحث، أدخل النص "Sales hub" وحدد تطبيق Sales Hub لفتحه.  
 
-4. عندما تكون داخل تطبيق ما، ستكون هناك مناطق مختلفة يمكنك العمل معها بناءً على ما تحاول القيام به. على سبيل المثال، يحتوي تطبيق Sales Hub على إعدادات إدارية مختلفة يمكنك العمل بها. 
+4. عندما تكون داخل التطبيق، ستكون هناك مجالات مختلفة يمكنك العمل معها استنادًا إلى ما تحاول القيام به. على سبيل المثال، يحتوي تطبيق Sales Hub على إعدادات إدارية مختلفة يمكنك العمل بها. 
 
 5. في الجانب الأيسر السفلي من جزء التنقل، حدد **المبيعات** وانتقل إلى منطقة **إعدادات التطبيق**. استكشف إعدادات التطبيق.
 

@@ -1,41 +1,24 @@
-﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>lab</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>module</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>المعمل 3.1: إنشاء مقالة معرفية ونشرها في Dynamics 365 Customer Service</div></td>
-  <td><div>الوحدة 3: التعرف على أساسيات Dynamics 365 Customer Service</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-
-الوحدة 3: التعرف على أساسيات Dynamics 365 Customer Service
+---
+lab:
+  title: 'النشاط المعملي 3.1: إنشاء مقالة معرفية ونشرها في Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908741"
+---
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>الوحدة 3: تعلم أساسيات Dynamics 365 Customer Service
 ========================
 
-## معمل التدريب 3.1 - إنشاء مقالة معرفية ونشرها في Dynamics 365 Customer Service
+## <a name="practice-lab-31---create-and-publish-a-knowlege-article-in-dynamics-365-customer-service"></a>معمل التدريب 3.1 - إنشاء مقالة معرفية ونشرها في Dynamics 365 Customer Service
 
-## إعداد النشاط المعملي
+## <a name="lab-setup"></a>إعداد النشاط المعملي
 
-  - **الوقت المقدر**: 15 دقيقة
+  - **الزمن المقدر**: 15 minutes
 
-## الإرشادات
+## <a name="instructions"></a>الإرشادات
 
 1. إذا لم يكن مفتوحًا بالفعل، فافتح تطبيق **Dynamics 365 Customer Service Hub**. 
 
@@ -55,31 +38,31 @@
 
 8. أكمل المقالة على النحو التالي:
 
-	- **العنوان:** العنصر تالف عند الوصول - الأحرف الأولى من اسمك
+    - **العنوان:** العنصر تالف عند الوصول - الأحرف الأولى من اسمك
 
-	- **الكلمات الأساسية:** عنصر تالف، متضرر، إرجاع
+    - **الكلمات الأساسية:** عنصر تالف، متضرر، إرجاع
 
-	- **الوصف:** يساعد على حل المشكلات عند وصول عنصر تالفًا. 
+    - **Description:** يساعد على حل المشكلات عند وصول عنصر تالفًا. 
 
 9. أدخل النص التالي في نص مصمم المحتوى.   
 ‎  
 وصل العنصر تالفًا
 
-	عند وصول عنصر تالفًا، قم بما يلي:
+    عند وصول عنصر تالفًا، قم بما يلي:
 
-	1. افتح مدخل الويب الخاص بنا
+    1. افتح مدخل الويب الخاص بنا
 
-	2. حدد موقع سجل طلبك
+    2. حدد موقع سجل طلبك
 
-	3. حدد إرجاع عنصر
+    3. حدد إرجاع عنصر
 
-	4. حدد تالف بسبب
+    4. حدد تالف بسبب
 
-	5. حدد طباعة
+    5. حدد طباعة
 
 بمجرد استلامنا للمنتج المرتجع/التالف، سيتم إعادة المبلغ إلى حسابك.
 
-**ملاحظة:** يمكنك إضافة تنسيق إلى النص إذا رغبت في ذلك. 
+**NOTE:** يمكنك إضافة تنسيق إلى النص إذا رغبت في ذلك. 
 
 10. في **شريط الأوامر**، حدد زر **حفظ** لحفظ مقالة معرفية وتركها مفتوحة. 
 
@@ -105,7 +88,7 @@
 
 20. في **شريط الأوامر** أعلى المقالة، حدد **علامة القطع الأفقي** على يسار شريط الأوامر. من القائمة التي تظهر، حدد **منتج ذو صلة**. 
 
-21. في نافذة **منتج ذو صلة**، حدد **Office 365 for Enterprise (عينة)**.
+21. في نافذة **منتج ذو صلة**، حدد **Office 365 for Enterprise (عينة)** .
 
 22. حدد زر **إقران**. 
 
@@ -121,16 +104,16 @@
 
 28. تأكد من تحديد ما يلي:
 
-	- **نشر:** الآن
+    - **Publish:** الآن
 
-	- **حالة النشر:** منشورة
+    - **Published Status:** منشورة
 
-	- **تاريخ انتهاء الصلاحية:** عام واحد من اليوم الساعة 12:00 صباحًا
+    - **Expiration Date:** عام واحد من اليوم الساعة 12:00 صباحًا
 
-	- **حالة انتهاء الصلاحية:** منتهية الصلاحية
+    - **Expiration State:** منتهية الصلاحية
 
-	- **حالة انتهاء الصلاحية:** منتهية الصلاحية
+    - **Expiration Status:** منتهية الصلاحية
 
-	- **نشر الترجمات المعتمدة:** لا
+    - **نشر الترجمات المعتمدة:** No
 
 

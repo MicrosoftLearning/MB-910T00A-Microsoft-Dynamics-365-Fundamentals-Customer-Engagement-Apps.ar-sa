@@ -1,52 +1,29 @@
-﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>lab</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>module</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>المعمل 1.1: التحقق من صحة بيئة المعمل</div></td>
-  <td><div>الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-
-
-الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing
+---
+lab:
+  title: 'النشاط المعملي 1.1: التحقق من البيئة المعملية'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 6b800444cadb1a2de0750594fea3e19e4f9a5bde
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908711"
+---
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>الوحدة 1: تعلم أساسيات Dynamics 365 Marketing
 ========================
 
-## معمل التدريب 1.1 - التحقق من صحة بيئة النشاط المعملي 
+## <a name="practice-lab-11---validate-lab-environment"></a>معمل التدريب 1.1 - التحقق من صحة بيئة النشاط المعملي 
 
 في هذا النشاط المعملي، ستتحقق من أن مستأجر الفصل الخاص بك يعمل على النحو المتوقع. ستصل إلى بيانات الاعتماد الفردية الخاصة بك، وتسجِّل "الاسم المستعار" الخاص بك وتفتح تطبيق Dynamics 365 المستند إلى النموذج الذي سنستخدمه طوال الدورة التدريبية. 
 
-**ملاحظة مهمة:** سيوفر لك هذا النشاط المعملي مستأجر Dynamics 365 فعليًا
-وتراخيص لتطبيقات Power Platform التي ستستخدمها في هذه
-الدورة التدريبية. يرجى العلم أن Power Platform يتطور طوال الوقت. قد
-تختلف الإرشادات الواردة في هذا المستند عما تواجهه في المستأجر
-الفعلي الخاص بك. من الممكن أيضًا أن تواجه تأخيرًا لعدة
-دقائق قبل أن يتوفر للجهاز الظاهري اتصال بالشبكة لبدء المعامل.
+**Important Note:** سيوفر لك هذا النشاط المعملي مستأجر Dynamics 365 الفعلي وتراخيص لتطبيقات Power Platform التي ستستخدمها في هذه الدورة التدريبية. يرجى العلم أن Power Platform يتطور طوال الوقت. تختلف التعليمات الواردة في هذا المستند عما تواجهه في المستأجر الفعلي. من الممكن أيضًا أن تواجه تأخير عدة دقائق قبل اتصال الجهاز الظاهري بالشبكة لبدء الأنشطة المعملية.
 
-التمرين 1 - قم بالوصول إلى تطبيق Dynamics 365
+<a name="exercise-1---access-the-dynamics-365-application"></a>التمرين 1 - قم بالوصول إلى تطبيق Dynamics 365
 ---------------------------------------------------
 
-### المهمة 1 - سجّل الدخول إلى مركز مسؤولي Power Platform
+### <a name="task-1--log-into-the-power-platform-admin-center"></a>المهمة 1 - سجّل الدخول إلى مركز مسؤولي Power Platform
 
-1.  قم بالوصول إلى <https://admin.Powerplatform.microsoft.com> وسجِّل الدخول باستخدام بيانات اعتماد المستخدم الخاصة بك.
+1.  الوصول وتسجيل <https://admin.Powerplatform.microsoft.com> الدخول باستخدام بيانات اعتماد المستخدم.
 
 2. سجِّل بيانات اعتماد المستخدم الخاصة بك حتى الرمز **@** على ورقة أو في مفكرة. سيكون هذا هو الاسم المستعار للمعمل الذي ستستخدمه للتمييز بين البيانات التي تقوم بإنشائها داخل مؤسسة Dynamics 365 المشتركة. 
 
@@ -54,9 +31,9 @@
 
 3. لا تتردد في استكشاف مركز مسؤولي Power Platform ولكن **لا تقم بإجراء أي تغييرات**.
 
-### المهمة 2 - الوصول إلى تطبيق Dynamics 365
+### <a name="task-2--access-the-dynamics-365-application"></a>المهمة 2 - الوصول إلى تطبيق Dynamics 365
 
-1.  قم بتوسيع زر مشغل التطبيق على شكل دومينو في الجزء العلوي الأيسر من الشاشة، مباشرةً إلى يسار **مركز مسؤولي Power Platform. حدد تطبيق Dynamics 365 Marketing** لتشغيله.
+1.  وسّع زر مشغل التطبيق على شكل دومينو في الجزء العلوي الأيسر من الشاشة، مباشرةً إلى يسار مركز مسؤولي Power Platform. حدد تطبيق Dynamics 365 **Marketing** لتشغيله.
 
 2.  استكشف جزء التنقل على اليسار. يتيح لك الزر الموجود أسفل الجزء تغيير المناطق. أنت الآن تستعرض منطقة **التسويق**. 
 

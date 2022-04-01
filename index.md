@@ -1,37 +1,30 @@
-<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>permalink</th>
-  <th>layout</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>التعليمات المستضافة عبر الإنترنت</div></td>
-  <td><div>index.html</div></td>
-  <td><div>home</div></td>
-  </tr>
-  </tbody>
-</table>
+---
+title: تعليمات مستضافة عبر الإنترنت
+permalink: index.html
+layout: home
+ms.openlocfilehash: f4e2e1489e1997cfd064aa74eb5345e302bb2424
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908744"
+---
+# <a name="content-directory"></a>دليل المحتوى
 
-# دليل المحتوى
+تم سرد الارتباطات التشعبية لكل من التدريبات والعروض التوضيحية المعملية أدناه.
 
-تم سرد الارتباطات التشعبية لكلٍ من التدريبات والعروض التوضيحية المعملية أدناه.
-
-## المعامل
+## <a name="labs"></a>الأنشطة المعملية
 
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
-| الوحدة | المعمل |
+| الوحدة النمطية | التمرين المعملي |
 | --- | --- | 
 {% for activity in labs  %}| {{ activity.lab.module }} | [{{ activity.lab.title }}{% if activity.lab.type %} - {{ activity.lab.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
 
-## العروض التوضيحية
+## <a name="demos"></a>العروض التوضيحية
 
 {% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Demos'" %}
-| الوحدة | عرض توضيحي |
+| الوحدة النمطية | Demo |
 | --- | --- | 
-{% for activity in demos  %}| {{ activity.demo.module }} | [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% للنشاط في العرض التوضيحي %}| {{ activity.demo.module }} | [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}

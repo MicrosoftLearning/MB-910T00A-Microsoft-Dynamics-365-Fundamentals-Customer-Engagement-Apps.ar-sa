@@ -1,45 +1,28 @@
-﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>lab</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>module</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>المعمل 1.4: البحث عن البيانات وتصفيتها</div></td>
-  <td><div>الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-
-الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing
+---
+lab:
+  title: 'النشاط المعملي 1.4: البحث عن البيانات وتصفيتها'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 523e40bcfed281ae3f86ed21428163f603cc7f2d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908708"
+---
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>الوحدة 1: تعلم أساسيات Dynamics 365 Marketing
 ========================
 
-## معمل التدريب 1.4 - البحث عن البيانات وتصفيتها
+## <a name="practice-lab-14---search-and-filter-data"></a>معمل التدريب 1.4 - البحث عن البيانات وتصفيتها
 
-## الأهداف
+## <a name="objectives"></a>الأهداف
 
 يكاد يكون تحديد البيانات في التطبيق مهمة يومية. فكلما زادت فعاليتك في الاكتشاف والبحث، زادت سرعة التعامل مع استفسارات العملاء والتنقل عبر التطبيق بشكلٍ عام.  سيرشدك هذا النشاط المعملي خلال العملية.
 
-## إعداد النشاط المعملي
+## <a name="lab-setup"></a>إعداد النشاط المعملي
 
-  - **الوقت المقدر**: 15 دقيقة
+  - **الزمن المقدر**: 15 minutes
 
-## الإرشادات
+## <a name="instructions"></a>الإرشادات
 
 في هذا التمرين، ستستفيد من إمكانات البحث والتصفية في Dynamics 365 لتحديد مختلف السجلات والعمل معها. 
 
@@ -69,11 +52,11 @@
 
 13. أكمل نموذج **إنشاء مهمة سريعة** كما يلي:
 
-	- **الموضوع:** إرسال مواد تسويقية - الأحرف الأولى من اسمك
+    - **Subject:** إرسال مواد تسويقية - الأحرف الأولى من اسمك
 
-	- **الاستحقاق:** غدا الساعة 8:30 صباحًا
+    - **Due:** غدا الساعة 8:30 صباحًا
 
-	- **الأولوية:** عالية
+    - **Priority:** مرتفع
 
 14. حدد زر **حفظ وإغلاق**.
 

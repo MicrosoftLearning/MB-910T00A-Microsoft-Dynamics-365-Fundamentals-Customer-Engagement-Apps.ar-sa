@@ -1,45 +1,28 @@
-﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>lab</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>module</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>المعمل 1.5: إنشاء قطاع في Dynamics 365 Marketing</div></td>
-  <td><div>الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-
-الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing
+---
+lab:
+  title: 'النشاط المعملي 1.5: إنشاء قسم في Dynamics 365 Marketing'
+  module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+ms.openlocfilehash: 5f75e433fe8d38d32000c7de20878e3b471f0fca
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908704"
+---
+<a name="module-1-learn-the-fundamentals-of-dynamics-365-marketing"></a>الوحدة 1: تعلم أساسيات Dynamics 365 Marketing
 ========================
 
-## معمل التدريب 1.5 - إنشاء قطاع في Dynamics 365 Marketing
+## <a name="practice-lab-15---create-a-segment-in-dynamics-365-marketing"></a>معمل التدريب 1.5 - إنشاء قطاع في Dynamics 365 Marketing
 
-## الأهداف
+## <a name="objectives"></a>الأهداف
 
 أثناء هذا التمرين، سترى أنه من السهل جدًا إنشاء قطاعات العملاء التي تستهدف جهات اتصال محددة بناءً على المعلومات الديموغرافية الشائعة مثل المكان الذي يعيشون فيه أو اهتماماتهم. ويُعد إنشاء قطاعات العملاء في Dynamics 365 Marketing أمرًا شائعًا للغاية نظرًا لاستخدام قطاعات العملاء في الأنشطة التسويقية الرئيسية مثل تحديد جهات الاتصال المستهدفة في رحلات العميل.
 
-## إعداد النشاط المعملي
+## <a name="lab-setup"></a>إعداد النشاط المعملي
 
-  - **الوقت المقدر**: 20 دقيقة
+  - **الزمن المقدر**: 20 دقيقة
 
-## الإرشادات
+## <a name="instructions"></a>الإرشادات
 
 
 1. افتح تطبيق Dynamics Marketing. ينبغي تحديد منطقة **التسويق**. حدد **الشرائح** ضمن **العملاء**.
@@ -54,7 +37,7 @@
 
 6. حدد عنصر تحكم **تحديد السمة**.
 
-7. ثم اكتب "المدينة" لتصفية القائمة وحدد **العنوان 1: المدينة**.
+7. ثم اكتب "city" لتصفية القائمة وحدد **Address 1: City**.
 
 8. اترك القائمة المنسدلة التالية مضبوطة على **يساوي**. 
 

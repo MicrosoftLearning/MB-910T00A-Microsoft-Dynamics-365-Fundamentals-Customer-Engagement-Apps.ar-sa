@@ -1,47 +1,29 @@
-﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>lab</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>module</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>المعمل 2.1: إنشاء عميل متوقع وإدارته في Dynamics 365 Sales</div></td>
-  <td><div>الوحدة 2: التعرف على أساسيات Dynamics 365 Sales</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-
-
-الوحدة 2: التعرف على أساسيات Dynamics 365 Sales
+---
+lab:
+  title: 'النشاط المعملي 2.1: إنشاء عميل متوقع وإدارته في Dynamics 365 Sales'
+  module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
+ms.openlocfilehash: 7280228a05263156d3fa56a57f4e269114347d2e
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908717"
+---
+<a name="module-2-learn-the-fundamentals-of-dynamics-365-sales"></a>الوحدة 2: تعلم أساسيات Dynamics 365 Sales
 ========================
 
-## معمل التدريب 2.1 - إنشاء عميل متوقع وإدارته في Dynamics 365 Sales
+## <a name="practice-lab-21---create-and-manage-a-lead-in-dynamics-365-sales"></a>معمل التدريب 2.1 - إنشاء عميل متوقع وإدارته في Dynamics 365 Sales
 
-## الأهداف
+## <a name="objectives"></a>الأهداف
 
 خلال هذا التمرين، ستسجل عميل متوقع للمبيعات بشأن سوزان بيرك. لقد تواصلَت معك مؤخرًا وهي مهتمة ببعض منتجات وخدمات مؤسستك. لن يقتصر الأمر على تسجيل العميل المتوقع في النظام فحسب، بل ستستخدم الأدوات المتاحة في Dynamics 365 Sales للعمل مع العميل المتوقع خلال عملية التأهيل.
 
 
-## إعداد النشاط المعملي
+## <a name="lab-setup"></a>إعداد النشاط المعملي
 
-  - **الوقت المقدر**: 15 دقيقة
+  - **الزمن المقدر**: 15 minutes
 
-## الإرشادات
+## <a name="instructions"></a>الإرشادات
 
 1. إذا لم يكن مفتوحًا بالفعل، افتح تطبيق **Dynamics 365 Sales Hub**. 
 
@@ -51,39 +33,39 @@
 
 4. أكمل سجل العملاء المتوقعين الجدد الخاص بك على النحو التالي:
 
-	- **الموضوع:** البحث عن معدات جديدة - الأحرف الأولى من اسمك
+    - **Topic:** البحث عن معدات جديدة - الأحرف الأولى من اسمك
 
-	- **الاسم الأول:** تقى
+    - **الاسم الأول:** تقى
 
-	- **الاسم الأخير:** حلو
+    - **اسم العائلة:** حلو
 
-	- **المسمى الوظيفي:** المدير المالي
+    - **Job Title:** المدير المالي
 
-	- **هاتف العمل:** 8715-555 888
+    - **Business Phone:** 8715-555 888
 
-	- **البريد الإلكتروني:** Suzanne@contososample.com
+    - **Email:** Suzanne@contososample.com
 
-	- **الشركة:** شركة Contoso - واشنطن
+    - **Company:** شركة Contoso - واشنطن
 
-	- **شارع 1:** 1989 شارع سميث
+    - **Street 1:** 1989 شارع سميث
 
-	- **المدينة:** سياتل
+    - **المدينة:** سياتل
 
-	- **المحافظة/المنطقة:** واشنطن
+    - **State/Province:** واشنطن
 
-	- **الرمز البريدي:** 98001 
+    - **ZIP/Postal Code:** 98001 
 
 5. حدد زر **حفظ** في شريط الأوامر لحفظ العميل المتوقع الجديد واتركه مفتوحًا.
 
 6. لاحظ سير إجراءات العمل **العميل المتوقع للفرصة** في الجزء العلوي من السجل. انقر فوق **مرحلة التأهيل** لتحديدها. أكمل المرحلة كما يلي:
 
-	- **الإطار الزمني للشراء**: هذا الربع
+    - **Purchase Timeframe:** هذا الربع
 
-	- **الموازنة التقديرية**: 25000 
+    - **Estimated Budget:** 25000 
 
-	- **عملية الشراء**: شخصي
+    - **Purchase Process:** شخصي
 
-	- **تحديد صانع القرار**: اكتمل
+    - **Identify Decision Maker:** مكتمل
 
 7. انتقل إلى **المخطط الزمني للسجل** في منتصف الشاشة وانقر فوق **أيقونة علامة زائد** لإضافة نشاط جديد. 
 

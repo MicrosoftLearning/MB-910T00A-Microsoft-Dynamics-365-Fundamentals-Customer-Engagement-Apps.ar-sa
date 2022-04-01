@@ -1,41 +1,24 @@
-﻿<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>lab</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>module</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>المعمل 3.2: إنشاء الحالات وإدارتها في Dynamics 365 Customer Service</div></td>
-  <td><div>الوحدة 3: التعرف على أساسيات Dynamics 365 Customer Service</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-
-الوحدة 3: التعرف على أساسيات Dynamics 365 Customer Service
+---
+lab:
+  title: 'النشاط المعملي 3.2: إنشاء الحالات وإدارتها في Dynamics 365 Customer Service'
+  module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+ms.openlocfilehash: 246ffc81d2edbffcfc809e242757784acdcccb0d
+ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.translationtype: HT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "137908742"
+---
+<a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>الوحدة 3: تعلم أساسيات Dynamics 365 Customer Service
 ========================
 
-## معمل التدريب 3.2 - إنشاء الحالات وإدارتها في Dynamics 365 Customer Service
+## <a name="practice-lab-32---create-and-manage-cases-in-dynamics-365-customer-service"></a>معمل التدريب 3.2 - إنشاء الحالات وإدارتها في Dynamics 365 Customer Service
 
-## إعداد النشاط المعملي
+## <a name="lab-setup"></a>إعداد النشاط المعملي
 
-  - **الوقت المقدر**: 10 دقائق
+  - **الزمن المقدر**: 10 دقائق
 
-## الإرشادات
+## <a name="instructions"></a>الإرشادات
 
 1. إذا لم يكن مفتوحًا بالفعل، فافتح تطبيق **Dynamics 365 Customer Service Hub**. 
 
@@ -45,11 +28,11 @@
 
 4. أكمل سجل الحالة الجديد على النحو التالي:
 
-	- **عنوان الحالة:** وصل العنصر تالفًا - الأحرف الأولى من اسمك
+    - **Case Title:** وصل العنصر تالفًا - الأحرف الأولى من اسمك
 
-	- **العميل:** Alpine Ski House
+    - **Customer:** Alpine Ski House
 
-	- **الأصل:** هاتف
+    - **Origin:** هاتف
 
 5. حدد زر **حفظ** لحفظ السجل واتركه مفتوحًا. 
 
