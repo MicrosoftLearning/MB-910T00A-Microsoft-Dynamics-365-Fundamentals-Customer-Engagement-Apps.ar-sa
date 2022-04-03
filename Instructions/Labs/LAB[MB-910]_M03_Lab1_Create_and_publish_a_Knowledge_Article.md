@@ -2,12 +2,12 @@
 lab:
   title: 'النشاط المعملي 3.1: إنشاء مقالة معرفية ونشرها في Dynamics 365 Customer Service'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
-ms.openlocfilehash: 3133819d99d9fbb317b731db313b1df7bcf8ebba
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: accc3885619d7949364937badba113de68163ce7
+ms.sourcegitcommit: 20016ceee38b42fe1b81573e65ab9cdb0d17eba2
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908741"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "141141995"
 ---
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-customer-service"></a>الوحدة 3: تعلم أساسيات Dynamics 365 Customer Service
 ========================
@@ -26,9 +26,9 @@ ms.locfileid: "137908741"
 
 3. لمعرفة المقالات الموجودة في مراحل مختلفة بسهولة، حدد سهم القائمة المنسدلة بجوار **المقالات النشطة الخاصة بي**. 
 
-4. حدد طريقة عرض **مسودة المقالات**. 
+4. حدد **مسودة المقالات**. من المحتمل أن ترى مقالتين في وضع المسودة.
 
-5. حدد **المقالات المعتمدة**. 
+5. حدد **المقالات المعتمدة**. ينبغي أن ترى على الأقل مقالة واحدة معتمدة.  
 
 6. العودة إلى **مقالاتي النشطة**
 
@@ -60,9 +60,9 @@ ms.locfileid: "137908741"
 
     5. حدد طباعة
 
-بمجرد استلامنا للمنتج المرتجع/التالف، سيتم إعادة المبلغ إلى حسابك.
+    بمجرد استلامنا للمنتج المرتجع/التالف، سيتم إعادة المبلغ إلى حسابك.
 
-**NOTE:** يمكنك إضافة تنسيق إلى النص إذا رغبت في ذلك. 
+    **NOTE:** يمكنك إضافة تنسيق إلى النص إذا رغبت في ذلك. 
 
 10. في **شريط الأوامر**، حدد زر **حفظ** لحفظ مقالة معرفية وتركها مفتوحة. 
 
@@ -115,5 +115,7 @@ ms.locfileid: "137908741"
     - **Expiration Status:** منتهية الصلاحية
 
     - **نشر الترجمات المعتمدة:** No
+    
+29. انقر فوق زر **نشر** لنشر المقالة.
 
 
