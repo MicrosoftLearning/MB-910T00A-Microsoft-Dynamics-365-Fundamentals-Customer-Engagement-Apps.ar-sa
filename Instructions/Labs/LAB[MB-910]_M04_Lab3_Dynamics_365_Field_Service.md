@@ -2,12 +2,12 @@
 lab:
   title: 'النشاط المعملي 4.3: النشاط المعملي لمشروع التخرّج Dynamics 365 Field Service'
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: f3a0b281cf2f6b342b789bffa977d57de8b9dcf6
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: 6bddf66b1b4e4c11941e5b1f4b3c64e0ff5cbf8c
+ms.sourcegitcommit: 72aae532f6c367bd6e48570b827f7289171f2b31
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908719"
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "141605543"
 ---
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>الوحدة 4: تعلم أساسيات Dynamics 365 Field Service
 ========================
@@ -98,7 +98,7 @@ ms.locfileid: "137908719"
 
  
 
-### <a name="task-2-manually-create-a-word-order"></a>المهمة 2: إنشاء أمر عمل يدويًا
+### <a name="task-2-manually-create-a-work-order"></a>المهمة 2: إنشاء أمر عمل يدويًا
 
 سنعود إلى سجل الحالة الذي أنشأته لاحقًا. بعد ذلك، لنفحص كيفية إنشاء سجل أمر عمل يدويًا. 
 
