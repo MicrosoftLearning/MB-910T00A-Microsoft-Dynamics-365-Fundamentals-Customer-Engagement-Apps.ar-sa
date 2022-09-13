@@ -2,12 +2,12 @@
 lab:
   title: 'النشاط المعملي 2.1: إنشاء قسم في Dynamics 365 Marketing'
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 159f9c048a9dd746b9d0c83ee5692a5a648351de
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
+ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404896"
+ms.lasthandoff: 09/06/2022
+ms.locfileid: "147855067"
 ---
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>الوحدة الثانية: التعرف على أساسيات Dynamics 365 Marketing
 ========================
@@ -41,7 +41,7 @@ ms.locfileid: "144404896"
 
 8. حدد القائمة المنسدلة الثالثة، والتي تحتوي على النص الباهت **أدخل النص** واكتب **ريدموند**.
 
-9. انقر لتحديد الحقل **Name** أعلى الاستعلام وأدخل **Remond Contacts**.
+9. انقر لتحديد الحقل **Name** أعلى الاستعلام وأدخل **Redmond Contacts**.
 
 10. حدد **حفظ** على شريط الأوامر لحفظ القطاع الخاص بك.
 
