@@ -2,13 +2,8 @@
 title: تعليمات مستضافة عبر الإنترنت
 permalink: index.html
 layout: home
-ms.openlocfilehash: f4e2e1489e1997cfd064aa74eb5345e302bb2424
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
-ms.translationtype: HT
-ms.contentlocale: ar-SA
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137908744"
 ---
+
 # <a name="content-directory"></a>دليل المحتوى
 
 تم سرد الارتباطات التشعبية لكل من التدريبات والعروض التوضيحية المعملية أدناه.
