@@ -2,13 +2,8 @@
 lab:
   title: 'النشاط المعملي 5.1: إنشاء أوامر العمل في Dynamics 365 Field Service'
   module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: fa0e8af72df342a72267895d9318ce3f625633b5
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404922"
 ---
+
 <a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>الوحدة 5: التعرف على أساسيات Dynamics 365 Field Service
 ========================
 
@@ -20,7 +15,7 @@ ms.locfileid: "144404922"
 
 ## <a name="instructions"></a>الإرشادات
 
-1. باستخدام التنقل على اليسار، حدد **أوامر العمل**.
+1. إذا لم يكن مفتوحًا بالفعل، فافتح تطبيق **Dynamics 365 Field Service**. حدد **Work Orders** من قسم **Scheduling**من القائمة اليسرى.
 
 2. في **شريط الأوامر**، حدد زر **جديد** لإنشاء أمر عمل جديد.
 

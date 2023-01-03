@@ -2,13 +2,8 @@
 lab:
   title: 'النشاط المعملي 1.1: العمل مع تطبيقات customer engagement'
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: b480ae2128d5735172f1d005f2ecbfcb3b8a53f9
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404898"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>الوحدة الأولى: تجربة قدرات Dynamics 365 (CRM) الأساسية
 ========================
 
@@ -39,11 +34,11 @@ ms.locfileid: "144404898"
 
 1. الوصول إلى https://admin.powerplatform.microsoft.com/environments.
 
-2. حدد بيئة WWLLABnnn، حيث nnn هو رقم. هذه هي بيئة Dynamics 365 المشتركة حيث ستقوم بتنفيذ جميع المعامل.
+2. حدد بيئة WWLLABnnn، حيث nnn هو رقم. هذه هي بيئة Dynamics 365 المشتركة حيث ستقوم بتنفيذ جميع النشاطات المعملية.
 
-3. انقر فوق Open environment
+3. انقر فوق **Open** من القائمة العلوية أو انقر فوق عنوان url للبيئة WWLLABnnn.
 
-4. قم بتوسيع زر App Launcher على شكل دومينو في الجزء العلوي الأيسر من الشاشة، مباشرةً إلى يسار مركز مسؤولي Power Platform. حدد تطبيق Dynamics 365 Marketing لتشغيله.
+4. حدد تطبيق **Marketing** لتشغيله.
 
 5. استكشف جزء التنقل على اليسار. يتيح لك الزر الموجود أسفل الجزء تغيير المناطق. أنت الآن تستعرض منطقة التسويق.
 
