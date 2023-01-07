@@ -2,13 +2,8 @@
 lab:
   title: 'النشاط المعملي 2.2: إنشاء رحلة عميل بسيطة'
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 6c9f21f684590ff84fa77cc19e70555c2e8c00be
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404904"
 ---
+
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>الوحدة الثانية: التعرف على أساسيات Dynamics 365 Marketing
 ========================
 
@@ -30,11 +25,12 @@ ms.locfileid: "144404904"
 
 1. إذا لزم الأمر، افتح تطبيق Dynamics 365 Marketing. 
 
-2. باستخدام التنقل على اليسار، حدد **رسائل البريد الإلكتروني التسويقية** ضمن مجموعة تنفيذ التسويق
+2. باستخدام جزء التنقل على اليسار، قم بتغيير Area إلى **Outbound marketing** وحدد **Marketing emails** ضمن Marketing execution group.
 
 3. حدد رسالة البريد الإلكتروني التسويقية **مقدمة إلى الرؤساء** وافتحها.  
 
-4. في **شريط الأوامر** في الجزء العلوي، حدد زر **العرض المباشر**. 
+4. إذا كان البريد الإلكتروني **Introduction to Chairs** بالفعل **Live**، فانتقل إلى الخطوة التالية. 
+   خلا فذلك، في **Command Bar** في الجزء العلوي، حدد زر **Go Live**. 
 
 5. الآن وبعد أن أصبح البريد الإلكتروني مباشرًا، استخدم التنقل على اليسار لتحديد **Customer Journeys** ضمن المجموعة Marketing Execution.
 
@@ -50,7 +46,7 @@ ms.locfileid: "144404904"
 
 11. حدد علامة تبويب **General** الموجودة في الجزء العلوي من Customer Journey Record. أدخل المعلومات التالية في علامة تبويب **عام**:
 
-    - **الاسم**: Redmond Customer Journey
+    - **Name**: Redmond Customer Journey - الأحرف الأولى من اسمك
 
     - **Start date and time**: أدخل تاريخ اليوم
 

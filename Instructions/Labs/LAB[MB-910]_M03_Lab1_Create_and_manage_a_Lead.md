@@ -2,13 +2,8 @@
 lab:
   title: 'النشاط المعملي 3.1: إنشاء عميل متوقع وإدارته في Dynamics 365 Sales'
   module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
-ms.openlocfilehash: 750ac8f84444e734bacc52adacb1c9b041959c7f
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144404905"
 ---
+
 <a name="module-3-learn-the-fundamentals-of-dynamics-365-sales"></a>الوحدة الثالثة: التعرف على أساسيات Dynamics 365 Sales
 ========================
 
@@ -35,15 +30,15 @@ ms.locfileid: "144404905"
 
     - **Topic:** البحث عن معدات جديدة - الأحرف الأولى من اسمك
 
-    - **الاسم الأول:** تقى
+    - **First Name:** Suzanne – الأحرف الأولى من اسمك
 
-    - **اسم العائلة:** حلو
+    - **Last Name**: Burke - الأحرف الأولى من اسمك
 
     - **Job Title:** المدير المالي
 
     - **Business Phone:** 8715-555 888
 
-    - **Email:** Suzanne@contososample.com
+    - **Email:** Suzanne.YourInitials@contososample.com
 
     - **Company:** شركة Contoso - واشنطن
 
