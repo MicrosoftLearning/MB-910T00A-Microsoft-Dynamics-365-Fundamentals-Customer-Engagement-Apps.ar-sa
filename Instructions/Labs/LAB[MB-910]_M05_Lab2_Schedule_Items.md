@@ -4,18 +4,18 @@ lab:
   module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
 ---
 
-<a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>الوحدة 5: التعرف على أساسيات Dynamics 365 Field Service
+الوحدة 5: التعرف على أساسيات Dynamics 365 Field Service
 ========================
 
-## <a name="practice-lab-52---schedule-items-in-dynamics-365-field-service"></a>ممارسة النشاط المعملي 5.2 - جدولة العناصر في Dynamics 365 Field Service
+## ممارسة النشاط المعملي 5.2 - جدولة العناصر في Dynamics 365 Field Service
 
-## <a name="lab-setup"></a>إعداد النشاط المعملي
+## إعداد النشاط المعملي
 
   - **الزمن المقدر**: 20 دقيقة
 
   **ملاحظة:** لا يمكن فتح جزء متطلبات الحجز في مستعرض Internet Explorer. يُرجى استخدام مستعرض Microsoft Edge أو Google Chrome لإكمال هذا التمرين.
   
-## <a name="instructions"></a>الإرشادات
+## الإرشادات
 
 1. إذا لم يكن مفتوحًا بالفعل، فافتح تطبيق **Dynamics 365 Field Service**.
 
