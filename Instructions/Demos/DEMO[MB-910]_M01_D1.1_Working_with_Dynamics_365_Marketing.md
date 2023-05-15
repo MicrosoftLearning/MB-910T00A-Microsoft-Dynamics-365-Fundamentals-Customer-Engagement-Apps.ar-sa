@@ -1,31 +1,8 @@
-<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>demo</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>module</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>عرض توضيحي: العمل مع Dynamics 365 Marketing</div></td>
-  <td><div>الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
-  </tr>
-  </tbody>
-</table>
-
+---
+lab:
+    title: 'عرض توضيحي: العمل مع Dynamics 365 Marketing'
+    module: 'الوحدة 1: التعرف على أساسيات Dynamics 365 Marketing'
+---
 
 # عرض توضيحي: العمل مع Dynamics 365 Marketing
 
