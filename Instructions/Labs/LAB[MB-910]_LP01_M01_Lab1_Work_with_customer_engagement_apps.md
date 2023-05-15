@@ -2,7 +2,7 @@
 lab:
   title: 'النشاط المعملي 1.1: العمل مع تطبيقات customer engagement'
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
-  Module: Describe the foundations of Dynamics 365 customer engagement apps
+  module: Describe the foundations of Dynamics 365 customer engagement apps
 ---
 
 الوحدة 1: وصف أسس تطبيقات مشاركة العملاء Dynamics 365
