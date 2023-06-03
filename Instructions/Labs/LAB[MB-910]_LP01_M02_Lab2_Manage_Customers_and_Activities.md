@@ -1,11 +1,11 @@
 ---
 lab:
-  title: 'النشاط المعملي 1.2: إدارة العملاء والأنشطة'
+  title: 'مسار التعلم 1 - التمرين المعملي 1.2: إدارة العملاء والأنشطة'
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
   module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
 ---
 
-الوحدة 2: وصف الأنشطة المشتركة وخيارات التكامل في Dynamics 365 تطبيقات مشاركة العملاء
+مسار التعلم 2 - الوحدة 2: وصف الأنشطة المشتركة وخيارات التكامل في Dynamics 365 تطبيقات مشاركة العملاء
 ========================
 
 ## معمل التدريب 1.2 - إدارة العملاء والأنشطة
