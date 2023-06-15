@@ -2,7 +2,7 @@
 lab:
   title: 'مسار التعلم 1 - التمرين المعملي 1.2: إدارة العملاء والأنشطة'
   learning path: Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps
-  module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
+  module: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ---
 
 مسار التعلم 2 - الوحدة 2: وصف الأنشطة المشتركة وخيارات التكامل في Dynamics 365 تطبيقات مشاركة العملاء
@@ -30,11 +30,11 @@ lab:
 
 4. أكمل سجل الحساب كما يلي:
 
-    - **Account Name:** شركة Contoso
+    - **اسم الحساب:** شركة Contoso (الأحرف الأولى من اسمك)
 
-    - **Phone:** 1234-555-888
+    - **الهاتف:** 888-555-1234 (الأحرف الأولى من اسمك)
 
-    - **العنوان 1 شارع 1:** 191 181<sup data-htmlnode="">st</sup> Ave N
+    - **العنوان 1 شارع 1:** 191 181<sup data-htmlnode="">st</sup> Ave N (الأحرف الأولى من اسمك)
 
     - **Address 1 City:** سياتل
 
@@ -48,11 +48,11 @@ lab:
 
 7. أكمل سجل الحساب كما يلي:
 
-    - **Account Name:** شركة Contoso في أمريكا الشمالية
+    - **اسم الحساب:** Contoso North America (الأحرف الأولى من اسمك)
 
-    - **Phone:** 4321-555-888
+    - **الهاتف:** 888-555-4321 (الأحرف الأولى من اسمك)
 
-    - **العنوان 1 – الشارع 1**: 187 11<sup data-htmlnode="">ST</sup> N
+    - **العنوان 1 شارع 1**: 187<sup data-htmlnode="">11 ST</sup> N (الأحرف الأولى من اسمك)
 
     - **Address 1 City:** شيكاغو
 
@@ -72,11 +72,11 @@ lab:
 
     - **الاسم الأول:** جاكسون
 
-    - **اسم العائلة:** اندرسون
+    - **اسم العائلة:** أندرسون (الأحرف الأولى من اسمك)
 
     - **Job Title:** المدير التنفيذي
 
-    - **البريد الالكتروني:** [Jackson@contososample.com](mailto:Jackson@contososample.com)
+    - **البريد الإلكتروني:** [جاكسون (الأحرف الأولى من اسمك)@contososample.com](mailto:Jackson@contososample.com)
 
 13. حدد زر **حفظ وإغلاق**.
 
@@ -88,7 +88,7 @@ lab:
 
 17. أكمل الموعد على النحو التالي:
 
-    - **Subject:** لقاء مع جاكسون
+    - **الموضوع:** اجتماع مع جاكسون (الأحرف الأولى من اسمك)
 
     - **Start Time:** غدًا الساعة 10:00 صباحًا
 
@@ -102,7 +102,7 @@ lab:
 
 21. حدد ارتباط **فتح موعد**.
 
-22. مع فتح سجل الموعد، من **شريط الأوامر**، حدد الزر **وضع علامة إكمال** لإنهاء الموعد.
+22. مع فتح سجل الموعد، من **شريط الأوامر**، حدد الزر **وضع علامة اكتمال** لإنهاء الموعد.
 
 23. حدد **حفظ وإغلاق** للرجوع إلى سجل الحساب.
 
