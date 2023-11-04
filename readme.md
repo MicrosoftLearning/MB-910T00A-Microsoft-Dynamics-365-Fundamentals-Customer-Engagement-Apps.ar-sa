@@ -1,4 +1,4 @@
-# MB-910T00A: أساسيات Microsoft Dynamics 365 تطبيقات مشاركة العملاء
+# MB-910T00A: أساسيات Microsoft Dynamics 365 (CRM)
 
 - **[تنزيل أحدث دليل للطالب ومحتوى جميع الملفات](https://learningdownloadcenter.microsoft.com/)**
 - **هل أنت مدرب MCT؟** - ألق نظرة على [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
